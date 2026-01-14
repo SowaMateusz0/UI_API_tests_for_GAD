@@ -2,7 +2,13 @@
   "name": "ui_api_gad",
   "version": "1.0.0",
   "main": "index.js",
+<<<<<<< HEAD
   "scripts": {},
+=======
+  "scripts": {
+    "test": "npx playwright test"
+  },
+>>>>>>> main
   "keywords": [],
   "author": "",
   "license": "ISC",
